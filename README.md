@@ -63,7 +63,6 @@ Media queries and flexible units like `%`, `vw`, and `rem` ensure good usability
 
 - Clickable gallery images
 - Enlarged display in modal view
-- Close button (`×`) with smooth user interaction
 
 ## Contact Form
 
